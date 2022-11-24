@@ -16,3 +16,5 @@ Dalam upaya penelitian terhadap penggunaan machine learning dalam mendeteksi ter
 
 ## Result
 Dari paper Predictive models for COVID-19 detection using routine blood tests and machine learning, dapat disimpulkan bahwa dengan data tes darah, dapat memungkinkan untuk membuat model machine learning yang dapat mendeteksi covid-19, meskipun demikian test PCR tetap menjadi pilihan yang lebih baik karena akurasinya, hanya saja PCR memerlukan tenaga medis lebih banyak, waktu dan harga yang mahal. Sedangkan dari paper COVID-19 detection and classification for machine learning methods using human genomic data, dapat disimpulkan 
+
+--Belum selesai--
